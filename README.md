@@ -1,4 +1,5 @@
-# Walking the Web of Concept-Class Relationships in Incrementally Trained Interpretable Models  [ **[![arXiv](https://img.shields.io/badge/arXiv-Paper-red)](https://dummy-link.com) | [![Video](https://img.shields.io/badge/Video-Presentation-blue)](https://dummy-link.com) | [![Poster](https://img.shields.io/badge/Poster-PDF-green)](https://dummy-link.com)** ]
+# Walking the Web of Concept-Class Relationships in Incrementally Trained Interpretable Models  [ **[![arXiv](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2502.20393) ]
+<!-- | [![Video](https://img.shields.io/badge/Video-Presentation-blue)](https://dummy-link.com) | [![Poster](https://img.shields.io/badge/Poster-PDF-green)](https://dummy-link.com)** ] -->
 
 
 ## Abstract
